@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Magazyn</string>
+    <string name="action_search">action search</string>
+    <string name="action_scan_barcode">action scan barcode</string>
+    
+    <string-array name="surfaces_pl">
+        <item>Poler</item>
+        <item>Satyna</item>
+    </string-array>
+</resources>

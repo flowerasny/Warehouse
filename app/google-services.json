@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441527128532",
+    "firebase_url": "https://warehouse-dd0ec.firebaseio.com",
+    "project_id": "warehouse-dd0ec",
+    "storage_bucket": "warehouse-dd0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441527128532:android:a44f0f493954ec9e",
+        "android_client_info": {
+          "package_name": "com.kik.warehouse2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441527128532-aa5soif3m036pothq0m47buqfvhqcf0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kik.warehouse2",
+            "certificate_hash": "309c2153eedb21e0f46b30b36cc7f4b4af57ce13"
+          }
+        },
+        {
+          "client_id": "441527128532-p02lvf436u3k1s8dtlmiqp54m1fm51gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjvqr_1krTyjXsRi21uItK9Ak5L89YOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441527128532-p02lvf436u3k1s8dtlmiqp54m1fm51gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#007ac1</color>
+    <color name="colorAccent">#99ccff</color>
+
+    <color name="cardDark">#0d0d0d</color>
+    <color name="cardGrey">#8c8c8c</color>
+
+    <color name="cardStatusDiodeRed">#ff3333</color>
+    <color name="cardStatusDiodeGreen">#009933</color>
+    <color name="cardStatusDiodeYellow">#ffd11a</color>
+    <color name="cardStatusDiodeDefault">#FFF</color>
+    <color name="card_background">#eceff1</color>
+</resources>
